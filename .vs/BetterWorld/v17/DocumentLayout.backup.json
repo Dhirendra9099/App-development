@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\controllers\\oranisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:controllers\\oranisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\wwwroot\\css\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:wwwroot\\css\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\wwwroot\\css\\liststyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:wwwroot\\css\\liststyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\wwwroot\\css\\card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:wwwroot\\css\\card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\wwwroot\\css\\button.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:wwwroot\\css\\button.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\controllers\\jobcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:controllers\\jobcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|c:\\users\\nitro 5\\desktop\\betterworld-master (2)\\betterworld-master\\betterworld-master\\models\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570E609-72C3-4969-A234-540F734E51E6}|BetterWorld.csproj|solutionrelative:models\\jobviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T12:44:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T12:43:02.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T12:29:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OranisationController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Controllers\\OranisationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OranisationController.cs",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Controllers\\OranisationController.cs",
+              "RelativeToolTip": "Controllers\\OranisationController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:40:03.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Models\\JobViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\JobViewModel.cs",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Models\\JobViewModel.cs",
+              "RelativeToolTip": "Models\\JobViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:35:55.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobContoller.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Controllers\\JobContoller.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobContoller.cs",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Controllers\\JobContoller.cs",
+              "RelativeToolTip": "Controllers\\JobContoller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:33:47.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "listStyles.css",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\listStyles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\listStyles.css",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\listStyles.css",
+              "RelativeToolTip": "wwwroot\\css\\listStyles.css",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAYwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T11:25:11.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.css",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\Form.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Form.css",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\Form.css",
+              "RelativeToolTip": "wwwroot\\css\\Form.css",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T11:23:48.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.css",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\Card.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Card.css",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\Card.css",
+              "RelativeToolTip": "wwwroot\\css\\Card.css",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T11:22:27.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Button.css",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\Button.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Button.css",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\wwwroot\\css\\Button.css",
+              "RelativeToolTip": "wwwroot\\css\\Button.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T11:20:30.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\Nitro 5\\Desktop\\BetterWorld-master (2)\\BetterWorld-master\\BetterWorld-master\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAkwIsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:50:17.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
